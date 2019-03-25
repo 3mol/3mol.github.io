@@ -6,23 +6,20 @@
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="dns-prefetch" href="http://yoursite.com">
-  <title>我的第一篇博客 | Blog</title>
+  <title>hexo 入门常用语句 | Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="摘要内容~">
-<meta name="keywords" content="JAVA,APP,微服务">
+<meta name="keywords" content="hexo">
 <meta property="og:type" content="article">
-<meta property="og:title" content="我的第一篇博客">
+<meta property="og:title" content="hexo 入门常用语句">
 <meta property="og:url" content="http://yoursite.com/2019/03/25/my-first-blog/index.html">
 <meta property="og:site_name" content="Blog">
 <meta property="og:description" content="摘要内容~">
 <meta property="og:locale" content="Chinese">
-<meta property="og:image" content="http://yoursite.com/2019/03/25/assets/1553524121570.png">
-<meta property="og:image" content="http://yoursite.com/2019/03/25/assets/1553524576256.png">
-<meta property="og:updated_time" content="2019-03-25T14:36:21.288Z">
+<meta property="og:updated_time" content="2019-03-25T15:05:33.881Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="我的第一篇博客">
+<meta name="twitter:title" content="hexo 入门常用语句">
 <meta name="twitter:description" content="摘要内容~">
-<meta name="twitter:image" content="http://yoursite.com/2019/03/25/assets/1553524121570.png">
   
     <link rel="alternative" href="/atom.xml" title="Blog" type="application/atom+xml">
   
@@ -165,7 +162,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      我的第一篇博客
+      hexo 入门常用语句
     </h1>
   
 
@@ -178,11 +175,12 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h1 id="你是谁"><a href="#你是谁" class="headerlink" title="你是谁??"></a>你是谁??</h1><p>我是xxx</p>
-<p>是这个和他不过那</p>
-<p><img src="../assets/1553524121570.png" alt="1553524121570"></p>
-<p>这样也不错啊</p>
-<p><img src="../assets/1553524576256.png" alt="1553524576256"></p>
+        <p>常用语句：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">hexo new &quot;postName&quot; #新建文章</span><br><span class="line">hexo new page &quot;pageName&quot; #新建页面</span><br><span class="line">hexo generate #生成静态页面至public目录</span><br><span class="line">hexo server #开启预览访问端口（默认端口4000，&apos;ctrl + c&apos;关闭server）</span><br><span class="line">hexo deploy #部署到GitHub</span><br><span class="line">hexo help  # 查看帮助</span><br><span class="line">hexo version  #查看Hexo的版本</span><br></pre></td></tr></table></figure></p>
+<p>缩写形式：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">hexo n == hexo new</span><br><span class="line">hexo g == hexo generate</span><br><span class="line">hexo s == hexo server</span><br><span class="line">hexo d == hexo deploy</span><br></pre></td></tr></table></figure></p>
+<p>命令组合<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo s -g #生成并本地预览</span><br><span class="line">hexo d -g #生成并上传</span><br></pre></td></tr></table></figure></p>
+<p>编写博客语句<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new &apos;my-first-blog&apos; # 新建一篇名字为my-first-blog的文章</span><br></pre></td></tr></table></figure></p>
+<p>他会在source/_posts下创建my-first-blog的md文件，里面默认创建好了一个模板<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">title: 文章名</span><br><span class="line">date: 时间</span><br><span class="line">categories: 所属分类</span><br><span class="line">tags: [hexo] #标签，可以多个标签，需要使用数组的格式定义</span><br><span class="line">description: 摘要内容</span><br><span class="line"></span><br><span class="line">文章体...</span><br></pre></td></tr></table></figure></p>
+<p>创建一个名字叫my-second-blog的页面，他会作为一个栏目出现<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page &quot;my-second-blog&quot;</span><br></pre></td></tr></table></figure></p>
 
       
 
@@ -217,15 +215,7 @@
 		<ul class="article-tag-list">
 			 
         		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">JAVA</a>
-        		</li>
-      		 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">APP</a>
-        		</li>
-      		 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">微服务</a>
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">hexo</a>
         		</li>
       		
 		</ul>
@@ -237,7 +227,7 @@
 		<ul class="article-tag-list">
 			 
         		<li class="article-tag-list-item">
-        			<a href="/categories/Java//" class="article-tag-list-link color5">Java</a>
+        			<a href="/categories/默认//" class="article-tag-list-link color3">默认</a>
         		</li>
       		
 		</ul>
@@ -434,15 +424,7 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
           <ul class="article-tag-list" q-show="showTags">
              
               <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color5">JAVA</a>
-              </li>
-             
-              <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">APP</a>
-              </li>
-             
-              <li class="article-tag-list-item">
-                <a href="javascript:void(0)" class="js-tag color4">微服务</a>
+                <a href="javascript:void(0)" class="js-tag color5">hexo</a>
               </li>
             
             <div class="clearfix"></div>
