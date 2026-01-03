@@ -4,83 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b992e4c-4f6b-49ba-928d-5487d280496e" name="更改" comment="remove allˆ">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Blog/2024-10-04-iterators-generators/imgs/python.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Blog/2024-10-04-iterators-generators/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Blog/2025-04-16-monkeys-apes/imgs/gorilla.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Blog/2025-04-16-monkeys-apes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Blog/2025-10-30-normal-distribution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Blog/2025-10-30-normal-distribution/refs.bib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/CV/CV-PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/CV/books.bib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/CV/escaping-flatland.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/CV/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/CV/papers.bib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Docs/custom-styling/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Docs/github-deploy/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Docs/typst-example/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Docs/typst-example/miku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Docs/typst-example/papers.bib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Docs/typst-example/sample-PDF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Docs/typst-example/tufted-titmouse.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Docs/typst-example/tufted-titmouse.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/Docs/website-config/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/copy-code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/format-headings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/line-numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/tufted.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/imgs/devices.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/imgs/gorilla.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/imgs/tufted-duck-female-with-duckling.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/imgs/tufted-duck-male.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/copy-code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/format-headings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/line-numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/tufted.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Blog/2024-10-04-iterators-generators/imgs/python.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Blog/2024-10-04-iterators-generators/index.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Blog/2025-04-16-monkeys-apes/imgs/gorilla.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Blog/2025-04-16-monkeys-apes/index.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Blog/2025-10-30-normal-distribution/index.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Blog/2025-10-30-normal-distribution/refs.bib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Blog/index.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/CV/CV-PDF.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/CV/books.bib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/CV/escaping-flatland.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/CV/index.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/CV/papers.bib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Docs/custom-styling/index.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Docs/github-deploy/index.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Docs/index.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Docs/typst-example/index.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Docs/typst-example/miku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Docs/typst-example/papers.bib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Docs/typst-example/sample-PDF.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Docs/typst-example/tufted-titmouse.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Docs/typst-example/tufted-titmouse.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/Docs/website-config/index.typ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/imgs/devices.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/imgs/gorilla.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/imgs/tufted-duck-female-with-duckling.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/imgs/tufted-duck-male.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/index.typ" afterDir="false" />
-    </list>
+    <list default="true" id="2b992e4c-4f6b-49ba-928d-5487d280496e" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="dev" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -90,6 +21,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "3mol"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/3mol/3mol.github.io.git",
+    "accountId": "985b0f5e-32a2-4105-b38b-ecbd8be6b68a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -98,28 +41,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.build.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.pyOptions&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.build.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.pyOptions",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Makefile 目标.default">
     <configuration name="default" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
       <makefile filename="$PROJECT_DIR$/Makefile" target="default" workingDirectory="" arguments="">
@@ -187,6 +130,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remove allˆ" />
