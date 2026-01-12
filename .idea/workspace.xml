@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b992e4c-4f6b-49ba-928d-5487d280496e" name="更改" comment="test">
+      <change afterPath="$PROJECT_DIR$/assets/code-blocks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme-toggle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/theme.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Blog/2024-10-04-iterators-generators/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Blog/2024-10-04-iterators-generators/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Blog/2025-04-16-monkeys-apes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Blog/2025-04-16-monkeys-apes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Blog/2025-10-30-normal-distribution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Blog/2025-10-30-normal-distribution/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/CV/CV-PDF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/_site/CV/CV-PDF.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Docs/typst-example/sample-PDF.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Docs/typst-example/sample-PDF.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/tufted.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/tufted.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tufted.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/tufted.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Blog/index.typ" beforeDir="false" afterPath="$PROJECT_DIR$/content/Blog/index.typ" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/index.typ" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.typ" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="GitHub Workflow" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -31,18 +48,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "3mol"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;3mol&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/3mol/3mol.github.io.git",
-    "accountId": "985b0f5e-32a2-4105-b38b-ecbd8be6b68a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/3mol/3mol.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;985b0f5e-32a2-4105-b38b-ecbd8be6b68a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -61,6 +78,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/huyujing/IdeaProjects/3mol.github.io/assets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,6 +91,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
   <component name="RunManager" selected="Makefile 目标.default">
     <configuration name="default" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
       <makefile filename="$PROJECT_DIR$/Makefile" target="default" workingDirectory="" arguments="">
@@ -126,6 +149,8 @@
       <option name="presentableId" value="Default" />
       <updated>1767449661889</updated>
       <workItem from="1767449662998" duration="1192000" />
+      <workItem from="1767624624373" duration="2228000" />
+      <workItem from="1768226402802" duration="426000" />
     </task>
     <task id="LOCAL-00001" summary="remove allˆ">
       <option name="closed" value="true" />
@@ -151,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767451888135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1767452310724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767452310724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
